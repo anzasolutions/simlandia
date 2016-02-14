@@ -1,2 +1,2 @@
 # simlandia
-Improved version of Simlandia created in 2011
+Improved version of Simland. Created in 2011.
