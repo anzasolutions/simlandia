@@ -5,9 +5,6 @@ $time = explode(' ', $time);
 $time = $time[1] + $time[0];
 $start = $time;
 
-
-define('PATH_ROOT', getcwd());
-
 require 'core/config/config.php';
 require 'app/config/config.php';
 
