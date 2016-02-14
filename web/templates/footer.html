@@ -1,0 +1,36 @@
+			</div>
+			<div id="footer-wrapper">
+				<div id="footer">
+					<span class="grey-light">
+						Simlandia &#169; 2010-2011
+					</span>
+					<span class="right">
+						<a href="about">O nas</a>
+						<a href="help">Pomoc</a>
+						<a href="conditions">Regulamin</a>
+						<a href="contact">Kontakt</a>
+					</span>
+				</div>
+				<div>
+				<?php
+	
+                    $time = microtime();
+                    $time = explode(' ', $time);
+                    $time = $time[1] + $time[0];
+                    $finish = $time;
+                    $start = Session::getInstance()->get('start');
+                    $total_time = round(($finish - $start), 4);
+                    echo 'Page generated in '.$total_time.' seconds.'."\n";
+
+	            ?>
+				</div>
+			</div>
+
+
+		</div>
+		<script type="text/javascript">
+			$(".error").effect("highlight", {}, 3000);
+			$(".error").click(function () { $(".error").slideUp(300); });
+		</script>
+	</body>
+</html>

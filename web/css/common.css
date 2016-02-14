@@ -1,0 +1,198 @@
+.white
+{
+	color: #ffffff;
+}
+
+.grey-light
+{
+	color: #808080;
+}
+
+.right
+{
+	float: right;
+}
+
+.left
+{
+	float: left;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.tahoma-11
+{
+	font-family: Tahoma;
+	font-size: 11px;
+}
+
+.tahoma-13
+{
+	font-family: Tahoma;
+	font-size: 13px;
+}
+
+.width-full
+{
+	width: 100%;
+}
+
+/*
+ * Borders
+ */
+
+.border-black
+{
+	border: 1px #000000 solid;
+}
+
+.border-dark-grey
+{
+	border: 1px #02546E solid;
+}
+
+.no-outline
+{
+	outline: none;
+}
+
+/*
+ * Margins
+ */
+
+.margin-left-7
+{
+	margin-left: 7px;
+}
+
+.margin-left-10
+{
+	margin-left: 10px;
+}
+
+.margin-left-26
+{
+	margin-left: 26px;
+}
+
+.margin-top-2
+{
+	margin-top: 2px;
+}
+
+/*
+ * Form hints
+ */
+
+/* #hint
+{
+   	display: none;
+    position: relative;
+    right: -314px;
+	top: -18px;
+	bottom: 500px;
+    width: 100px;
+    border: 1px solid #c93;
+    padding: 8px 8px;
+	margin: 0;
+    background: #ffc url("../images/pointer.gif") no-repeat -10px 5px;
+}
+
+#hint .hint-pointer
+{
+    position: absolute;
+    left: -10px;
+    top: 5px;
+    width: 10px;
+    height: 19px;
+    background: url("../images/pointer.gif") left top no-repeat;
+} */
+
+/*
+ * Messages
+ */
+
+/* .error
+{
+    border: 0px #DD3C10 solid;
+    background-color: #FFEBE8;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    color: #A62A2E;
+	margin: 0 0 3px 0;
+} */
+
+/* .success
+{
+    border: 0px #4E9A06 solid;
+    background-color: #C7FF8F;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    color: #4E9A06;
+	margin: 0 0 3px 0;
+} */
+
+.noscript
+{
+	width: 100%;
+	font-family: sans-serif;
+	font-size: 16px;
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+	background-color: #ae0000;
+	padding: 10px 0;
+}
+
+/*
+ * Labels
+ */
+
+.section-title
+{
+	font-size: 11px;
+	font-family: Tahoma, Georgia;
+	font-weight: bold;
+	color: #00759b;
+	padding: 5px 5px 5px 8px;
+	/* border-left: 4px #00759b solid; */
+	/* border-bottom: 1px #f1f1f1 solid; */
+	margin: 0 0 3px 0;
+	background-color: #f3f7fb;
+}
+
+/*
+ * Form
+ */
+
+
+/*
+ * Display
+ */
+
+/* .hide
+{
+	display: none;
+} */
+
+.space
+{
+	height: 10px;
+	width: 100%;
+	clear: both;
+}
+
+.clear
+{
+	clear: both;
+}
+
+.checkbox
+{
+	border: 0;
+}

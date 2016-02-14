@@ -1,0 +1,18 @@
+<?php if (isset($message)) { echo $message; } ?>
+<div id="video-title"><?php echo $title; ?></div>
+<div id="video-frame">
+	<div id="video-movie">
+		<?php include($videoObject); ?>
+	</div>
+	<div id="video-content">
+		<div class="bold">Added by:</div>
+		<div class="value"><?php echo $username; ?></div>
+		<div class="bold">Added on:</div>
+		<div class="value"><?php echo $date; ?></div>
+		<div class="bold">Duration:</div>
+		<div class="value"><?php echo $duration; ?></div>
+		<div class="bold">Link:</div>
+		<div class="value"><?php echo $link; ?></div>
+	</div>
+</div>
+<?php include($comments); ?>

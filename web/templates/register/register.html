@@ -1,0 +1,47 @@
+<div class="border-dotted-grey">
+	<?php if (isset($message)) { echo $message; } ?>
+	<script type="text/javascript">
+		$("#message").effect("highlight", {}, 3000);
+	</script>
+	<div class="section-title">Registration</div>
+	<div class="background-grey">
+		<div class="form">
+			<form action="<?php echo $formAction; ?>" method="post">
+				<div class="form-label">Login:</div>
+				<div class="form-input">
+					<input name="login" type="text" value="<?php if (isset($login)) { echo $login; } ?>" autofocus />
+				</div>
+				<div class="form-label">Firstname:</div>
+				<div class="form-input">
+					<input name="firstname" type="text" value="<?php if (isset($firstname)) { echo $firstname; } ?>" />
+				</div>
+				<div class="form-label">Lastname:</div>
+				<div class="form-input">
+					<input name="lastname" type="text" value="<?php if (isset($lastname)) { echo $lastname; } ?>" />
+				</div>
+				<div class="form-label">E-mail address:</div>
+				<div class="form-input">
+					<input name="email" type="text" value="<?php if (isset($email)) { echo $email; } ?>" />
+				</div>
+				<div class="form-label">Password:</div>
+				<div class="form-input">
+					<input name="password" type="password" value="<?php if (isset($pass)) { echo $pass; } ?>" />
+				</div>
+				<div class="form-label">Date of birth:</div>
+				<div class="form-input">
+					<?php echo $selectDate; ?>
+				</div>
+				<div class="form-label">Gender:</div>
+				<div class="form-input">
+					<?php echo $selectGender; ?>
+				</div>
+				<div class="checkbox">
+					<input name="rules" type="checkbox" checked />
+				</div>
+				<div class="remember">Accept rules</div>
+				<input name="process" type="submit" value="Register" />
+				<div class="clear"></div>
+			</form>
+		</div>
+	</div>
+</div>

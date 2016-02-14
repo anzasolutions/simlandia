@@ -1,0 +1,16 @@
+<div class="border-dotted-grey">
+	<?php if (isset($message)) { echo $message; } ?>
+	<div class="section-title">Add new video</div>
+	<div class="background-grey">
+		<div class="form">
+			<form action="<?php echo $formAction; ?>" method="post">
+				<div class="form-label">Link:</div>
+				<div class="form-input">
+					<input name="link" type="text" value="<?php if (isset($link)) { echo $link; } ?>" placeholder="YouTube, Vimeo, DailyMotion" />
+				</div>
+				<input type="submit" name="process" value="Add video" />
+				<div class="clear"></div>
+			</form>
+		</div>
+	</div>
+</div>

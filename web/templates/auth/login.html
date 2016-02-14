@@ -1,0 +1,24 @@
+<div class="border-dotted-grey">
+	<?php if (isset($message)) { echo $message; } ?>
+	<div class="section-title">Login</div>
+	<div class="background-grey">
+		<div class="form">
+			<form action="<?php echo $formAction; ?>" method="post">
+				<div class="form-label">E-mail:</div>
+				<div class="form-input">
+					<input name="email" type="text" value="<?php if (isset($email)) { echo $email; } ?>" autofocus />
+				</div>
+				<div class="form-label">Password:</div>
+				<div class="form-input">
+					<input name="password" type="password" value="<?php if (isset($pass)) { echo $pass; } ?>" />
+				</div>
+				<div class="checkbox">
+					<input type="checkbox" checked="checked" name="remember" />
+				</div>
+				<div class="remember">Remember me</div>
+				<input type="submit" name="process" value="Log in" />
+				<div class="clear"></div>
+			</form>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,17 @@
+<div class="border-dotted-grey">
+	<?php if (isset($message)) { echo $message; } ?>
+	<div class="section-title">Find friend</div>
+	<div class="background-grey">
+		<div class="form">
+			<form action="<?php echo $formAction; ?>" method="post">
+				<div class="form-label">Name:</div>
+				<div class="form-input">
+					<input name="friend" type="text" value="<?php echo $name; ?>" placeholder="Your friend's name?" />
+				</div>
+				<input type="submit" name="process" value="Find" />
+				<div class="clear"></div>
+			</form>
+		</div>
+	</div>
+</div>
+<div class="space"></div>

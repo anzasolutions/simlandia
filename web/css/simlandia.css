@@ -1,0 +1,402 @@
+/*
+ * Main parts
+ */
+
+#main
+{
+	padding: 10px 0;
+}
+
+/*
+ * Quick login panel
+ */
+
+#quick-login input
+{
+	margin-left: 7px;
+}
+
+#quick-login input, #quick-login a, #quick-login .remember
+{
+	float: left;
+}
+
+#quick-login input[type="text"], #quick-login input[type="password"]
+{
+	width: 110px;
+	padding: 4px;
+	border: 1px #02546E solid;
+}
+
+#quick-login input[type="checkbox"]
+{
+	margin: 5px 0 0 8px;
+	width: 10px;
+	border: 0;
+}
+
+#quick-login a
+{
+	margin-top: 2px;
+}
+
+#quick-login .remember
+{
+	margin: 2px 44px 0 6px;
+}
+
+/*
+ * Commons
+ */
+/* 
+.label
+{
+	font-weight: bold;
+	color: #00759b;
+	padding: 0px 0 2px 5px;
+	border-left: 4px #00759b solid;
+	border-bottom: 1px #f1f1f1 solid;
+	margin: 0 0 8px 0;
+} */
+
+/*
+ * Form
+ */
+
+.border-dotted-grey
+{
+    padding: 3px;
+    border: 1px #E4E4E4 dotted;
+}
+
+.background-grey
+{
+    background-color: #FCFCFC;
+}
+
+.form
+{
+	width: 330px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.form input[type="text"], .form input[type="password"]
+{
+	width: 186px;
+}
+
+.form input[type="submit"]
+{
+	margin-right: 36px;
+	float: right;
+}
+
+.form-label
+{
+	width: 90px;
+	float: left;
+	text-align: right;
+	margin: 3px 10px 0 0;
+	color: #666666;
+	font-weight: bold;
+}
+
+.form-input
+{
+	height: 20px;
+	margin-bottom: 10px;
+}
+
+.checkbox
+{
+	width: 10px;
+	float: left;
+	margin: 5px 10px 0 100px;
+	float: left;
+}
+
+.form .remember
+{
+	margin: 3px 16px 0 0;
+	float: left;
+}
+
+/*
+ * Form error / success
+ */
+
+.error-label
+{
+    color: #A62A2E;
+}
+
+.error-input
+{
+    
+    background-color: #FFEBE8;
+    color: #A62A2E;
+}
+
+/*
+ * Footer
+ */
+
+#footer-wrapper
+{
+	width: 100%;
+	float: left;
+}
+
+#footer
+{
+	width: 940px;
+	margin: 0 auto 10px auto;
+	padding: 10px 0;
+}
+
+#footer a
+{
+	margin-left: 10px;
+}
+
+/*
+ * Registration form
+ */
+
+.regDateYears
+{
+	width: 54px;
+	padding: 3px 3px 3px 0px;
+}
+
+.regDateMonths
+{
+	width: 82px;
+	padding: 3px 3px 3px 1px;
+}
+
+.regDateDays
+{
+	width: 52px;
+	padding: 3px 3px 3px 1px;
+}
+
+/*
+ * Profile
+ */
+
+.photo-frame
+{
+	padding: 3px;
+}
+
+/*
+ * Comments
+ */
+
+#comments .separator
+{
+	border-bottom: 1px #e4e4e4 solid;
+	width: 620px;
+	float: left;
+	margin-left: 10px;
+}
+
+#comment
+{
+	padding: 10px;
+	float: left;
+	clear: both;
+	width: 620px;
+}
+
+#comment-avatar
+{
+	float: left;
+	margin-right: 10px;
+}
+
+#comment-avatar a
+{
+	float: left;
+	width: 50px;
+	height: 50px;
+}
+
+#comment-avatar img
+{
+	float: left;
+	width: 50px;
+	height: 50px;
+}
+
+#comment-author
+{
+	float: left;
+	width: 560px;
+}
+
+#comment-author .name
+{
+	margin-bottom: 6px;
+	line-height: 100%;
+	font-weight: bold;
+}
+
+#comment-author .date
+{
+	font-size: 9px;
+	color: #cccccc;
+	margin-top: 5px;
+}
+
+#comment-adder
+{
+	padding: 10px;
+	background-color: #F9F9FF;
+	float: left;
+	clear: both;
+	width: 620px;
+	margin-bottom: 20px;
+}
+
+#comment-textarea
+{
+	float: left;
+	clear: right;
+	width: 552px;
+	height: 42px;
+	color: #333333;
+}
+
+#comment-submit
+{
+	margin-top: 10px;
+	float: right;
+}
+
+/*
+ * Videos
+ */
+
+#video
+{
+	float: left;
+	outline: none;
+	width: 620px;
+	height: 350px;
+	border: 0;
+}
+
+#videos img
+{
+	width: 131px;
+	float: left;
+}
+
+#videos .thumbnail
+{
+	margin: 0 3px 6px 3px;
+	width: 131px;
+	float: left;
+}
+
+#video-title
+{
+	font-size: 18px;
+	margin-left: 8px;
+	margin: 10px 0;
+}
+
+#video-frame
+{
+	float: left;
+	margin-bottom: 20px;
+}
+
+#video-movie
+{
+	width: 620px;
+	float: left;
+	margin-right: 20px;
+	border: 10px solid #F4F4F4;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#video-content
+{
+	width: 252px;
+	float: left;
+	margin: 0;
+}
+
+#video-content .value
+{
+	margin-bottom: 10px;
+}
+
+/*
+ * Profile
+ */
+
+#profile-name
+{
+	font-size: 24px;
+	font-family: 'Lucida Grande',Tahoma,Verdana,Arial,sans-serif;
+	color: #333333;
+	margin: 10px 0;
+}
+
+#profile-photo
+{
+	width: 206px;
+	float: left;
+}
+
+#profile-content
+{
+	width: 740px;
+	float: right;
+}
+
+/*
+ * Friends
+ */
+
+#friends .avatar
+{
+	margin: 0 4px 6px 2px;
+	width: 90px;
+	height: 90px;
+	float: left;
+}
+
+/*
+ * Messages
+ */
+
+.error, .success
+{
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+	margin: 0 0 3px 0;
+	display: none;
+}
+
+.error
+{
+    border: 0px #DD3C10 solid;
+    background-color: #FFEBE8;
+    color: #A62A2E;
+}
+
+.success
+{
+    border: 0px #4E9A06 solid;
+    background-color: #C7FF8F;
+    color: #4E9A06;
+}

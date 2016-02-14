@@ -1,0 +1,204 @@
+DEBUG 3916 AuthController - Hello!
+INFO 3916 AuthController - Entering application.
+INFO 3916 AuthController - Exiting application.
+2010-10-31 15:23:17 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:23:17 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:23:17 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:23:38 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:23:38 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:23:38 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:24:08 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:24:08 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:24:08 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:25:28 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:25:28 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:25:28 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:25:30 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:25:30 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:25:30 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:25:37 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:25:37 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:25:37 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:25:49 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:25:49 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:25:49 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:25:50 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:25:50 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:25:50 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:25:52 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:25:52 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:25:52 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:25:53 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:25:53 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:25:53 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:28:39 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:28:39 D:\xampp\htdocs\framework\app\controller\AuthController.class.php ERROR ERRRRRRR 
+2010-10-31 15:28:39 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:28:39 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:31:17 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:31:17 D:\xampp\htdocs\framework\app\controller\AuthController.class.php ERROR ERRRRRRR 
+2010-10-31 15:31:17 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:31:17 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:35:06 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:35:06 D:\xampp\htdocs\framework\app\controller\AuthController.class.php ERROR ERRRRRRR 
+2010-10-31 15:35:06 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:35:06 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:35:56 D:\xampp\htdocs\framework\app\controller\AuthController.class.php DEBUG Hello! 
+2010-10-31 15:35:56 D:\xampp\htdocs\framework\app\controller\AuthController.class.php ERROR ERRRRRRR 
+2010-10-31 15:35:56 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Entering application. 
+2010-10-31 15:35:56 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:40:08 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Staring AuthController::login 
+2010-10-31 15:40:08 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:40:23 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Staring AuthController::login 
+2010-10-31 15:40:23 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Exiting application. 
+2010-10-31 15:41:58 D:\xampp\htdocs\framework\app\controller\AuthController.class.php INFO Staring AuthController::login 
+2010-10-31 15:42:17 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:42:52 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:42:52 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR #0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 15:43:36 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:43:36 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id#0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 15:43:59 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:43:59 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id\n#0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 15:44:24 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:44:24 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR #0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 15:45:09 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:45:09 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR #0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 15:45:46 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:45:46 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR array (
+  0 => 
+  array (
+    'file' => 'D:\\xampp\\htdocs\\framework\\app\\controller\\UserController.class.php',
+    'line' => 20,
+    'function' => 'verifyId',
+    'class' => 'UserController',
+    'type' => '->',
+    'args' => 
+    array (
+      0 => 'ty',
+    ),
+  ),
+  1 => 
+  array (
+    'function' => '__call',
+    'class' => 'UserController',
+    'type' => '->',
+    'args' => 
+    array (
+      0 => 'ty',
+      1 => 
+      array (
+      ),
+    ),
+  ),
+  2 => 
+  array (
+    'file' => 'D:\\xampp\\htdocs\\framework\\app\\controller\\Controller.class.php',
+    'line' => 51,
+    'function' => 'ty',
+    'class' => 'ProfileController',
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+  3 => 
+  array (
+    'file' => 'D:\\xampp\\htdocs\\framework\\app\\system\\ControllerFactory.class.php',
+    'line' => 19,
+    'function' => 'execute',
+    'class' => 'Controller',
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+  4 => 
+  array (
+    'file' => 'D:\\xampp\\htdocs\\framework\\index.php',
+    'line' => 7,
+    'function' => 'create',
+    'class' => 'ControllerFactory',
+    'type' => '::',
+    'args' => 
+    array (
+    ),
+  ),
+) 
+2010-10-31 15:46:04 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:46:04 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR #0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 15:51:30 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:51:30 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR #0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 15:51:50 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:51:50 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR #0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 15:55:08 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:55:08 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR #0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 15:55:08 D:\xampp\htdocs\framework\app\controller\UserController.class.php INFO error occured and cleaning after 
+2010-10-31 15:55:23 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 15:55:23 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR #0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 15:55:23 D:\xampp\htdocs\framework\app\controller\UserController.class.php WARN error occured and cleaning after 
+2010-10-31 16:01:46 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 16:01:46 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR #0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 16:01:46 D:\xampp\htdocs\framework\app\controller\UserController.class.php WARN error occured and cleaning after 
+2010-10-31 16:10:48 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR Provided value is not a proper user id 
+2010-10-31 16:10:48 D:\xampp\htdocs\framework\app\controller\UserController.class.php ERROR #0 D:\xampp\htdocs\framework\app\controller\UserController.class.php(20): UserController->verifyId('ty')
+#1 [internal function]: UserController->__call('ty', Array)
+#2 D:\xampp\htdocs\framework\app\controller\Controller.class.php(51): ProfileController->ty()
+#3 D:\xampp\htdocs\framework\app\system\ControllerFactory.class.php(19): Controller->execute()
+#4 D:\xampp\htdocs\framework\index.php(7): ControllerFactory::create()
+#5 {main} 
+2010-10-31 16:10:48 D:\xampp\htdocs\framework\app\controller\UserController.class.php WARN error occured and cleaning after 

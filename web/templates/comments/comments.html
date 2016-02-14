@@ -1,0 +1,19 @@
+<div id="comments">
+	<div id="comment-adder">
+		<form action="<?php echo $formAction; ?>" method="post">
+			<div id="comment-avatar">
+				<?php echo $profile; ?>
+			</div>
+			<div id="comment-author">
+				<textarea id="comment-textarea" name="comment"><?php if (isset($content)) { echo $content; } ?></textarea>
+			</div>
+			<div id="comment-submit">
+				<input type="hidden" name="type" value="<?php echo $type; ?>" />
+				<input type="hidden" name="id" value="<?php echo $id; ?>" />
+				<input type="submit" name="process" value="Comment" />
+			</div>
+		</form>
+	</div>
+	<?php if (isset($commentItems)) { echo $commentItems; } ?>
+	<?php if (isset($commentIndex)) { echo $commentIndex; } ?>
+</div>

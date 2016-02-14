@@ -1,0 +1,8 @@
+<form id="quick-login" action="<?php echo $loginAction; ?>" method="post">
+	<input name="email" type="text" placeholder="Your e-mail" />
+	<input name="password" type="password" placeholder="Your password" />
+	<input name="process" type="submit" value="log in" />
+	<input name="remember" type="checkbox" checked="checked" />
+	<span class="remember">remember me</span>
+	<a href="<?php echo URL_APP; ?>auth/recover">forgot password?</a>
+</form>
